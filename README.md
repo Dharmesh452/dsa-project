@@ -18,8 +18,7 @@ Want to know if it's going to rain or shine? This Weather Condition Classifier u
 
 1.  *Grab the Code:* Clone this repository to your computer:
 
-    bash
-    git clone [https://github.com/ml-beginner-learner/weather-condition-classifier](https://github.com/ml-beginner-learner/weather-condition-classifier)  
+ 
 
 2.  *Get the Tools:*
 
